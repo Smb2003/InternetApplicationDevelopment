@@ -60,3 +60,6 @@ GitHub: [isbahansariii](https://github.com/isbahansariii)
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 
+---
+
+### 🌟 **Give it a Star ⭐ on GitHub if you like it!**  
