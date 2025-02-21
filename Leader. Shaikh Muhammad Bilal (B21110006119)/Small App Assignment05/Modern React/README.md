@@ -45,13 +45,22 @@ Ensure you have **Node.js** and **npm** installed on your system.
 
 ## Folder Structure
 ```
-mathematics-table-generator/
-├── src/
-│   ├── App.js  # Main React component
-│   ├── index.js # Renders the application
-│   ├── styles/  # CSS styling (if applicable)
+Modern React/
 ├── public/
+│   ├── vite.svg
+├── src/
+│   ├── assets/
+│   │   ├── react.svg
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
 ├── package.json
+├── vite.config.js
 ├── README.md
 ```
 
