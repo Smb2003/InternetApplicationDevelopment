@@ -74,5 +74,15 @@ This will start the development server. Open [http://localhost:5173](http://loca
 - **Vite** (Bundler)
 - **CSS** (Inline Styling)
 
+## Example Usage
+If a user enters `5` as the number and `10` as the range, the output will be:
+```
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+...
+5 x 10 = 50
+```
+
 ## License
 This project is open-source and available under the **MIT License**.
