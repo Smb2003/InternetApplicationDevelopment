@@ -1,0 +1,28 @@
+github repoistry bnany ky liyay yay sab krty taky node file jama na hon github py direct upload nh kr skty   , agar node file na ho tw direct drag kr ky repoistry bna skty hain
+
+phly create repositry on github then go in folder where all files are save , write cmd in bar then write the below process 
+
+
+
+git -v
+
+git init
+
+git remote add origin (repoistry link)
+
+git config --global user.email waleedalam262@gmail.com            ek  br 
+
+git config --global user.name waleedPak                            ek br 
+
+
+git add .
+
+
+git commit -m "initial commit"
+
+
+
+git branch -M main
+
+
+git push -u origin main

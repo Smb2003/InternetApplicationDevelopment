@@ -1,0 +1,51 @@
+app bnany ky liyay 
+
+large scale website = use redux   (hoti react he )
+choti website = react ya modern react same bt 
+mobile apps = react native 
+simple plain apps/project = vanilla html css js 
+classs = native react 
+
+
+
+PS C:\Users\walee\Downloads\react assignment\modern react> npm create vite@latest
+
+powershell py runs as administer  agar error wgra ajy tw 
+>>
+
+> npx
+> create-vite
+√ Package name: ... quote-generator
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+Scaffolding project in C:\Users\walee\Downloads\react assignment\modern react\quote generator...
+
+Done. Now run:
+
+  cd "quote generator"
+  npm install
+  npm run dev
+
+PS C:\Users\walee\Downloads\react assignment\modern react>  cd "quote generator"
+PS C:\Users\walee\Downloads\react assignment\modern react\quote generator> npm install
+
+
+react ki app with help of vite 
+
+tmny jo vanillaa sy bnai thi wo simple hai js
+
+
+PS C:\Users\walee\Downloads\react assignment\modern react\quote generator> npm install
+
+
+PS C:\Users\walee\Downloads\react assignment\modern react\quote generator> npm run dev            (redux ki app bnaogy tw run dev sy phly yay wali command likho npm install @reduxjs/toolkit react-redux   and han redux mai 2 new files bnti ha src ky folder mai ek store.js and jo b project hai.jsx )
+
+
+
+
+
+
+jab application/project bn jy github py daal lo then usko live kkrna hoota hai live wo wla nh live mtlb ek link bnana taky sab access kr sakyn dusri chex jp hoti ussy responsive bolty size adjust krna tw to create link we use vercel new py jao project import kro baqi wo khd krdyga simple uss py click kro and link copy krlo called deployment 
+
+
