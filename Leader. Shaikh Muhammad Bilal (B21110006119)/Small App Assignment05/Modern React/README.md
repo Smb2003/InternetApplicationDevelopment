@@ -64,6 +64,16 @@ Modern React/
 ├── README.md
 ```
 
+## Example Usage
+If a user enters `5` as the number and `10` as the range, the output will be:
+```
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+...
+5 x 10 = 50
+```
+
 ## Contributing
 Contributions are welcome! Feel free to fork this project, create a feature branch, and submit a pull request.
 
